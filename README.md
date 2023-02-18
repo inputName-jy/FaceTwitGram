@@ -5,6 +5,8 @@
   This is social network api that allows users to share their thoughts, react to friends' thoughts, and create a friend list. This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
   ## Demo
+[facetwitDemo.webm](https://user-images.githubusercontent.com/118019526/219830259-25382fd8-fc2c-42d9-b18c-2a433ff348aa.webm)
+
 
   ## Table of Contents
   - [Installation](#installation)
